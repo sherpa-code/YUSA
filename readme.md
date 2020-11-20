@@ -3,7 +3,7 @@
 #### by Joseph Crane
 
 ![alt text]
-(https://raw.githubusercontent.com/sherpa-code/yusa/master/Preview%20Images/misc/titleScreenSample.png) "YUSA Title Screen")
+(https://raw.githubusercontent.com/sherpa-code/yusa/master/Preview%20Images/misc/titleScreenSample.png "YUSA Title Screen")
 
 This project constitutes a personal project developed in the course of learning to program using Unreal Engine Blueprints.
 
