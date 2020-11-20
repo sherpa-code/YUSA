@@ -6,7 +6,7 @@
 
 This project constitutes a personal project developed in the course of learning to program using Unreal Engine Blueprints.
 
-Description:
+## Description:
 This action-adventure game draws significant influence from the look, feel, tone, and functionality of Brave Fencer: Musashi, developed and published by Square in 1998.
 
 ## Features:
