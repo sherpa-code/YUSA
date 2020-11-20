@@ -2,8 +2,8 @@
 #### A PSX-inspired action-adventure prototype developed in Unreal Engine
 #### by Joseph Crane
 
-![alt text]
-(https://raw.githubusercontent.com/sherpa-code/yusa/master/Preview%20Images/misc/titleScreenSample.png "YUSA Title Screen")
+
+![alt text](https://raw.githubusercontent.com/sherpa-code/yusa/master/Preview%20Images/misc/titleScreenSample.png "Ancient Tree")
 
 This project constitutes a personal project developed in the course of learning to program using Unreal Engine Blueprints.
 
