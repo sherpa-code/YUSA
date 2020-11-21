@@ -23,6 +23,16 @@ This action-adventure game draws significant influence from the look, feel, tone
 
 ![alt text](https://raw.githubusercontent.com/sherpa-code/yusa/master/Preview%20Images/environment/environment4.png "Ancient Tree")
 
+## Install instructions:
+# Prerequisites:
+- Unreal Engine 4.24
+
+# Steps:
+- Download the repository and place it in your target Project folder
+- Navigate to '(project)/Content/0Project/Maps' and extract Map.1.zip.001
+- In Epic Games Launcher, open '(project)/Yusa.uproject'
+
+
 ## Notes:
 - The game was developed using Unreal Engine Blueprints.
 - All non-original assets were obtained from free-to-use sources. No copyright infringement is intended.
