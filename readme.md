@@ -34,8 +34,9 @@ This action-adventure game draws significant influence from the look, feel, tone
 
 
 ## Notes:
-- The game was developed using Unreal Engine Blueprints.
-- All non-original assets were obtained from free-to-use sources. No copyright infringement is intended.
+- Approximate extracted Project size = ~10GB
+- The game was developed using Unreal Engine Blueprints
+- All non-original assets were obtained from free-to-use sources. No copyright infringement is intended
 
 
 ![alt text](https://raw.githubusercontent.com/sherpa-code/yusa/master/Preview%20Images/environment/environment8.png "Late Evening")
