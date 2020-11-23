@@ -24,7 +24,7 @@ This action-adventure game draws significant influence from the look, feel, tone
 ![alt text](https://raw.githubusercontent.com/sherpa-code/yusa/master/Preview%20Images/environment/environment4.png "Ancient Tree")
 
 # Install instructions:
-# Prerequisites:
+## Prerequisites:
 - Unreal Engine 4.24
 
 ## Steps:
